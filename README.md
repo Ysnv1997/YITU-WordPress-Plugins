@@ -8,7 +8,6 @@
 插件发布地址：http://ishanran.com/yitu/
 
 ## 插件预览
-[![https://www.htm.fun/image/5e804cbc8a2d1.jpg](https://www.htm.fun/image/5e804cbc8a2d1.jpg)](https://www.htm.fun/image/5e804cbc8a2d1.jpg)
-
+[![https://ae01.alicdn.com/kf/H8b638ef5610a4b3496db594d6570ebde8.jpg](https://ae01.alicdn.com/kf/H8b638ef5610a4b3496db594d6570ebde8.jpg)](https://ae01.alicdn.com/kf/H8b638ef5610a4b3496db594d6570ebde8.jpg)
 ### Ver 1.0
 * 发布第一个版本

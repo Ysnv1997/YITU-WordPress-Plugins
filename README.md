@@ -8,7 +8,7 @@
 插件发布地址：http://ishanran.com/yitu/
 
 ## 插件预览
-![](https://www.htm.fun/image/5e804cbc8a2d1.jpg)
+[![https://www.htm.fun/image/5e804cbc8a2d1.jpg](https://www.htm.fun/image/5e804cbc8a2d1.jpg)](https://www.htm.fun/image/5e804cbc8a2d1.jpg)
 
 ### Ver 1.0
 * 发布第一个版本

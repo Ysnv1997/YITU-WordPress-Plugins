@@ -1,10 +1,10 @@
 /*
-Plugin Name: 益图图床外链小工具
-Plugin URI: http://ishanran.com/yitu/
-Description: 山然小站独自开发的图床插件，用于WordPress博客添加 图床上传小工具、评论处图片上传按钮、文章编辑处图片上传按钮。
-Author: 山然小站
-Author URI: http://ishanran.com/
-Version: 1.0
+    Plugin Name: 益图图床外链小工具
+    Plugin URI: http://ishanran.com/yitu/
+    Description: 山然小站独自开发的图床插件，用于WordPress博客添加 图床上传小工具、评论处图片上传按钮、文章编辑处图片上传按钮。
+    Author: 山然小站
+    Author URI: http://ishanran.com/
+    Version: 1.1
 */
 .file{position:relative;display:inline-block;background:#D0EEFF;border:1px solid #99D3F5;border-radius:4px;padding:4px 12px;overflow:hidden;color:#1E88C7;text-decoration:none;text-indent:0;line-height:20px}
 .file input{position:absolute;font-size:100px;right:0;top:0;opacity:0}
